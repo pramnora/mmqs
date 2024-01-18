@@ -23,12 +23,13 @@ In actual effect the scheme works like so...
 - assuming we have, at least, ten investors all investing ten pounds each...;then, the scheme owner/provider takes out of the hundred pounds invested...fifty pounds.  
 - next, when a certain time period is reached, as was promised to each investor, be it: one/two/three/six/nine/twelve months...; then, each investor  
 gets paid accordingly...;  
-- payments are dished out on a rotating basis...; so, when a 'new' investor joins in the scheme...;  
-- half of their money goes to the scheme owner/provider;  
-- and, the other half goes to pay off say the first investor;  
-- a next person joins...half goes to pay off the second investor/and, so on...  
+- payments are dished out on a 'rotating' basis...;  
+  so, when a 'new' investor joins in the scheme...;  
+  half of their money goes to the scheme owner/provider....the other half is used to pay off the first investor;    
+  when a next person joins the scheme...half goes to the owner/provoider...; and, the other half goes to pay off say the second investor;    
+  and, so on...   
 - we have to assume that more and more people are joining in with the scheme, constantly, all the time, as it grows.  
 
-- Basically, what's actually happening here is one is actually 'robbing Peter in order to pay Paul'.  
-- I believe, this is called a version of the famous 'Ponzi scheme'.  
+Basically, what's actually happening here is one is actually 'robbing Peter in order to pay Paul'.  
+I believe, this is called a version of the famous 'Ponzi scheme'.  
 
