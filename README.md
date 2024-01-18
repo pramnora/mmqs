@@ -4,7 +4,7 @@ Created: Thu eighteen Jan two thousand and four at four forty one AM GMT
 
 -----
 
-One
+Ponzi Scheme  
 
 Recruit people each to deposit ten pounds  
 with the promise to reward them with a fifty per cent gain in less than a year.  
@@ -26,8 +26,8 @@ gets paid accordingly...;
 - payments are dished out on a 'rotating' basis...;  
   so, when a 'new' investor joins in the scheme...;  
   half of their money goes to the scheme owner/provider....the other half is used to pay off the first investor;    
-  when a next person joins the scheme... 
-  half of their money goes to the scheme owner/provider....the other half is used to pay off the second investor;     
+  when a next person joins the scheme...
+  half of their money goes to the scheme owner/provider....the other half is used to pay off the second investor;       
   and, so on...     
 - we have to assume that more and more people are joining in with the scheme, constantly, all the time, as it grows.  
 
