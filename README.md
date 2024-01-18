@@ -10,8 +10,8 @@ Recruit people each to deposit ten pounds
 with the promise to reward them with a fifty per cent gain in less than a year.  
 The gains could, in fact, be staggered...so,   
 an investment of three months gets thirty per cent interest;    
-an investment of six months gets forty per cent interest;   
-an investment of nine months gets fifty per cent interest.  
+an investment of four months gets forty per cent interest;   
+an investment of five months gets fifty per cent interest.  
 -This is bearing in mind that most banks offer a measley ten per cent or less interest, yearly.-
 
 There are two main considerations to have to note...  
@@ -21,12 +21,12 @@ There are two main considerations to have to note...
 In actual effect the scheme works like so...  
 - for each ten pounds invested...the scheme owner/provider takes fifty per cent for themselves as wages...; therefore, out of each ten pounds being invested/they take five pounds  
 - assuming we have, at least, ten investors all investing ten pounds each...;then, the scheme owner/provider takes out of the hundred pounds invested...fifty pounds.  
-- next, when a certain time period is reached, as was promised to each investor, be it: one/two/three/six/nine/twelve months...; then, each investor  
+- next, when a certain time period is reached, as was promised to each investor, be it: three/four/five months...; then, each investor  
 gets paid accordingly...;  
 - payments are dished out on a 'rotating' basis...;  
   so, when a 'new' investor joins in the scheme...;  
   half of their money goes to the scheme owner/provider....the other half is used to pay off the first investor;    
-  when a next person joins the scheme...
+  when a next person joins the scheme...   
   half of their money goes to the scheme owner/provider....the other half is used to pay off the second investor;       
   and, so on...     
 - we have to assume that more and more people are joining in with the scheme, constantly, all the time, as it grows.  
