@@ -26,10 +26,11 @@ gets paid accordingly...;
 - payments are dished out on a 'rotating' basis...;  
   so, when a 'new' investor joins in the scheme...;  
   half of their money goes to the scheme owner/provider....the other half is used to pay off the first investor;    
-  when a next person joins the scheme...half goes to the owner/provoider...; and, the other half goes to pay off say the second investor;    
-  and, so on...   
+  when a next person joins the scheme...
+  half of their money goes to the scheme owner/provider....the other half is used to pay off the second investor;     
+  and, so on...     
 - we have to assume that more and more people are joining in with the scheme, constantly, all the time, as it grows.  
 
-Basically, what's actually happening here is one is actually 'robbing Peter in order to pay Paul'.  
+Basically, what's actually happening here is one is actually 'robbing Peter in order to pay back Paul'  
 I believe, this is called a version of the famous 'Ponzi scheme'.  
 
